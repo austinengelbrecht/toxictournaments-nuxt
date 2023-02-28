@@ -3,7 +3,7 @@
     <h1>Header</h1>
   </header>
 
-  <slot />
+  <div>asdf</div>
 
   <footer>
     <p>Footer</p>
