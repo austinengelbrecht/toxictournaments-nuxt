@@ -1,1 +1,1 @@
-<template>This is some test content</template>
+<template>This is where I will add page content</template>

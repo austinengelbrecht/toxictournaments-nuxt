@@ -3,9 +3,10 @@
     <TheHeader />
   </header>
 
-  <div>asdf</div>
+  <slot />
 
   <footer>
-    <p>Footer</p>
+    <!-- <TheFooter /> Need to add Iconify -->
+    Footer
   </footer>
 </template>
