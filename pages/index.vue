@@ -1,1 +1,1 @@
-<template>asdf</template>
+<template>This is some test content</template>
